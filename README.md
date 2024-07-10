@@ -18,3 +18,17 @@ I'm **Aditi Patel**, a passionate Computer Engineering 👩‍💻 graduate from
 
 ### Exercise 5: Data Persistence
 [Exercise 5 Repository](#Link)
+
+---
+
+Feel free to explore my repositories, and thank you for taking the time to check out my work!
+
+---
+
+**Contact Me:**
+- Email: [ampaditipatel@gmail.com](mailto:ampaditipatel@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](#YourLinkedInLink)
+
+---
+
+Thank you! 🙌
