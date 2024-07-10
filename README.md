@@ -27,7 +27,7 @@ Feel free to explore my repositories, and thank you for taking the time to check
 
 **Contact Me:**
 - Email: [ampaditipatel@gmail.com](mailto:ampaditipatel@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](#YourLinkedInLink)
+- LinkedIn: [https://www.linkedin.com/in/aditipatel01]
 
 ---
 
