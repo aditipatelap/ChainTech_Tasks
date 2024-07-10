@@ -8,7 +8,7 @@ I'm **Aditi Patel**, a passionate Computer Engineering 👩‍💻 graduate from
 [Exercise 1 Repository](https://github.com/aditipatelap/ChainTech_Task1)
 
 ### Exercise 2: Creating a Python Web Server
-[Exercise 2 Repository](#Link)
+[Exercise 2 Repository](https://github.com/aditipatelap/ChainTech_Task2)
 
 ### Exercise 3: Adding Dynamic Content
 [Exercise 3 Repository](#Link)
