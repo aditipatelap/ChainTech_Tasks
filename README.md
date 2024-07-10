@@ -29,4 +29,4 @@ Feel free to explore my repositories, and thank you for taking the time to check
 
 ---
 
-Thank you! 🙌
+## Thank you! 🙌
