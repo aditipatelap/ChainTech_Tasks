@@ -11,7 +11,7 @@ I'm **Aditi Patel**, a passionate Computer Engineering 👩‍💻 graduate from
 [Exercise 2 Repository](https://github.com/aditipatelap/ChainTech_Task2)
 
 ### Exercise 3: Adding Dynamic Content
-[Exercise 3 Repository](#Link)
+[Exercise 3 Repository](https://github.com/aditipatelap/ChainTech_Task3)
 
 ### Exercise 4: Form Handling
 [Exercise 4 Repository](#Link)
