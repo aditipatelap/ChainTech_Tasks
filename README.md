@@ -23,8 +23,6 @@ I'm **Aditi Patel**, a passionate Computer Engineering 👩‍💻 graduate from
 
 Feel free to explore my repositories, and thank you for taking the time to check out my work!
 
----
-
 **Contact Me:**
 - Email: [ampaditipatel@gmail.com](mailto:ampaditipatel@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/aditipatel01
